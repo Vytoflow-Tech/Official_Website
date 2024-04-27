@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.) Tailwind css with vite
+2.) Tailwind css intellisense vsc
+3.) esbenp(prettier formatter for vsc)
+4.) npm install react-router-dom ( in now terminal)
+5.) Es7 react/redux for vs code (for rafce code to provide basic structure in .jsx)
+6.) npm run dev(run host)
